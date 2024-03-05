@@ -10,8 +10,6 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,sass,html,css,vscode,git,figma)
 
 
-![](https://komarev.com/ghpvc/?username=rymarczyk-tomasz&style=for-the-badge)
-
 
 
 <!--
