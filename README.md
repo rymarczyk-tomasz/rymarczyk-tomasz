@@ -1,4 +1,4 @@
-### Hi there, my name is Tomasz and I am a novice front-end developer.👋
+### Hi, my name is Tomasz and I am a novice front-end developer.👋
 
 - I’m currently working on <a href="https://github.com/rymarczyk-tomasz/FactoryOps" target="_blank" rel="noopener">FactoryOps</a>
 - I’m currently learning React and TypeScript
