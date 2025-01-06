@@ -1,6 +1,6 @@
 ### Hi, my name is Tomasz and I am a novice front-end developer.👋
 
-- I’m currently working on <a href="https://github.com/rymarczyk-tomasz/FactoryOps" target="_blank" rel="noopener">FactoryOps</a>
+- I’m currently working on <a href="https://github.com/rymarczyk-tomasz/StreetMeetingProject" target="_blank" rel="noopener">StreetMeetingProject</a>
 - I’m currently learning React and TypeScript
 - I finished my work on project <a href="https://github.com/wisniewski-patryk/wedding-website" target="_blank" rel="noopener">wedding website</a>, where I was responsible for the front end.
 
