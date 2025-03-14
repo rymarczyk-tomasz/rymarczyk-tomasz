@@ -7,7 +7,7 @@
 
 ## Languages and Tools that I know 🛠
 
-![My Skills](https://skillicons.dev/icons?i=javascript,sass,html,css,vscode,git.react)
+![My Skills](https://skillicons.dev/icons?i=javascript,sass,html,css,vscode,git)
 
 
 
