@@ -1,13 +1,14 @@
 ### Hi, my name is Tomasz and I am a novice front-end developer.👋
 
-- I’m currently working on <a href="https://github.com/rymarczyk-tomasz/StreetMeetingProject" target="_blank" rel="noopener">StreetMeetingProject</a>
+- I’m currently working on <a href="https://github.com/rymarczyk-tomasz/SheetBurningCalculator" target="_blank" rel="noopener">SheetBurningCalculator</a>
 - I’m currently learning React and TypeScript
+- I finished my work on project <a href="https://github.com/rymarczyk-tomasz/StreetMeetingProject" target="_blank" rel="noopener">StreetMeetingProject</a>.
 - I finished my work on project <a href="https://github.com/wisniewski-patryk/wedding-website" target="_blank" rel="noopener">wedding website</a>, where I was responsible for the front end.
 
 
 ## Languages and Tools that I know 🛠
 
-![My Skills](https://skillicons.dev/icons?i=javascript,sass,html,css,bootstrap,vscode,git)
+![My Skills](https://skillicons.dev/icons?i=react,javascript,sass,html,css,bootstrap,vscode,git)
 
 
 
