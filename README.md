@@ -73,6 +73,15 @@ An app for Polish speakers learning English (A1–C1): flashcards, quizzes, dict
 
 ![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,bootstrap,vite,vitest,nodejs,express,sqlite,dotnet,docker,git,github,githubactions,vscode)
 
+## 🤖 AI-assisted development
+
+I use AI tools, mainly **Claude Code**, as a part of my everyday workflow, but I stay in charge of the code and review every change before it lands:
+
+- project rules in `CLAUDE.md` (branching, release process, conventions), so the assistant follows the same workflow as I do
+- lint, tests and build have to pass before every commit, with unit tests for the business logic
+- faster prototyping, refactoring and working with new libraries and APIs
+- AI features inside my own apps, e.g. practicing conversations with Claude in my [English learning app](https://github.com/rymarczyk-tomasz/English)
+
 ## 📌 Right now
 
 - 🔭 Rebuilding [Street Show](https://github.com/rymarczyk-tomasz/StreetMeetingProject/tree/newProject) as a React + TypeScript app with an admin panel
