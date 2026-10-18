@@ -14,7 +14,7 @@ Official website of Street Show 2026 by Street Meeting Poland, a car event at Po
 
 `HTML` `CSS` `JavaScript` `GitHub Actions`
 
-🚧 **In progress – [full rewrite on the `newProject` branch](https://github.com/rymarczyk-tomasz/StreetMeetingProject/tree/newProject):** I'm rebuilding the whole site as a full-stack app with its own backend:
+🚧 **In progress – [full rewrite on the `newProject` branch](https://github.com/rymarczyk-tomasz/StreetMeetingProject/tree/newProject) · [preview](https://streetshow.tojest.dev/):** I'm rebuilding the whole site as a full-stack app with its own backend:
 
 - user accounts and online submissions for the "Select" vehicle zone
 - admin panel: dashboard, submission management, user roles, settings for event details and payments
@@ -23,6 +23,17 @@ Official website of Street Show 2026 by Street Meeting Poland, a car event at Po
 - secure login (JWT in httpOnly cookies, bcrypt), rate limiting, HTML sanitization, Helmet
 
 `React 19` `TypeScript` `Vite` `React Router` `TipTap` `Node.js` `Express` `SQLite`
+
+### Przytulanki z nitki – online shop · [preview](https://przytulanki.tojest.dev/)
+
+🚧 Work in progress. E-commerce site for a small business selling handmade crocheted teddy bears:
+
+- shop with categories, product pages, customer reviews and cart
+- customer accounts with order history and order status tracking
+- checkout with InPost Paczkomat map widget and online payments via Przelewy24 (BLIK, card, bank transfer)
+- admin panel: dashboard, products, categories, orders with CSV export, customers, reviews, discount codes and store settings
+
+`React` `Vite` `React Router` `Tailwind CSS` `REST API` `InPost` `Przelewy24`
 
 ### [FactoryOps](https://github.com/rymarczyk-tomasz/FactoryOps/tree/demo) · [live demo](https://rymarczyk-tomasz.github.io/FactoryOps/)
 
@@ -65,6 +76,7 @@ An app for Polish speakers learning English (A1–C1): flashcards, quizzes, dict
 ## 📌 Right now
 
 - 🔭 Rebuilding [Street Show](https://github.com/rymarczyk-tomasz/StreetMeetingProject/tree/newProject) as a React + TypeScript app with an admin panel
+- 🧸 Building an online shop for [Przytulanki z nitki](https://przytulanki.tojest.dev/)
 - 🏭 Developing [FactoryOps](https://github.com/rymarczyk-tomasz/FactoryOps/tree/demo), a production planning tool
 - 🌱 Going deeper into React, TypeScript and backend development
 - 💼 Open to new front-end opportunities and freelance projects. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/tomasz-rymarczyk-264aaa176/)
