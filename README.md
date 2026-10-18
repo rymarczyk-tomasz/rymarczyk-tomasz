@@ -26,7 +26,7 @@ Official website of Street Show 2026 by Street Meeting Poland, a car event at Po
 
 ### Przytulanki z nitki – online shop · [preview](https://przytulanki.tojest.dev/)
 
-🚧 Work in progress. E-commerce site for a small business selling handmade crocheted teddy bears:
+🚧 Work in progress · 🔒 private repository, code available on request. E-commerce site for a small business selling handmade crocheted teddy bears:
 
 - shop with categories, product pages, customer reviews and cart
 - customer accounts with order history and order status tracking
