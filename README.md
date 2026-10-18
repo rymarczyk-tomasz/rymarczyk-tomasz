@@ -14,6 +14,22 @@ Official website of Street Show 2026 by Street Meeting Poland, a car event at Po
 
 `HTML` `CSS` `JavaScript` `GitHub Actions`
 
+🚧 **In progress – [full rewrite on the `newProject` branch](https://github.com/rymarczyk-tomasz/StreetMeetingProject/tree/newProject):** I'm rebuilding the whole site as a full-stack app with its own backend:
+
+- user accounts and online submissions for the "Select" vehicle zone
+- admin panel: dashboard, submission management, user roles, settings for event details and payments
+- built-in CMS with a rich-text editor and revision history, so all site content can be edited without code
+- gallery synced with Google Drive
+- secure login (JWT in httpOnly cookies, bcrypt), rate limiting, HTML sanitization, Helmet
+
+`React 19` `TypeScript` `Vite` `React Router` `TipTap` `Node.js` `Express` `SQLite`
+
+### [FactoryOps](https://github.com/rymarczyk-tomasz/FactoryOps/tree/demo) · [live demo](https://rymarczyk-tomasz.github.io/FactoryOps/)
+
+Production planning app for manufacturing. Jobs are scheduled on a machine timeline (Gantt-style), with list view, machine load view, work shifts, conflict detection and undo (Ctrl+Z). Business logic is kept in a separate domain layer covered by unit tests. The demo runs in the browser and is deployed to GitHub Pages on every release, the .NET backend is the next step.
+
+`React` `TypeScript` `Vite` `React Bootstrap` `Vitest` `.NET 8` `Entity Framework` `Docker`
+
 ### [Sheet Burning Calculator](https://github.com/rymarczyk-tomasz/SheetBurningCalculator)
 
 A work-time standard calculator for a manufacturing company. It estimates processing time for thermal cutting, sawing and waterjet cutting based on part geometry (shape, dimensions, thickness, holes), and also works as a quick reference for other processes like heat treatment, welding or beveling. Keyboard-friendly, built to be used every day.
@@ -41,14 +57,14 @@ An app for Polish speakers learning English (A1–C1): flashcards, quizzes, dict
 ### Also worked on
 
 - [Wedding website](https://github.com/wisniewski-patryk/wedding-website) – team project, I was responsible for the front end (`HTML` `SCSS` `JavaScript`)
-- [FactoryOps](https://github.com/rymarczyk-tomasz/FactoryOps) – production planning app, work in progress (`.NET 8` `Entity Framework` `Docker`)
 
 ## 🛠 Tech stack
 
-![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,bootstrap,vite,nodejs,git,github,githubactions,vscode)
+![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,sass,bootstrap,vite,vitest,nodejs,express,sqlite,dotnet,docker,git,github,githubactions,vscode)
 
 ## 📌 Right now
 
-- 🔭 Building my [portfolio](https://github.com/rymarczyk-tomasz/portfolio) and new features for [Sheet Burning Calculator](https://github.com/rymarczyk-tomasz/SheetBurningCalculator)
-- 🌱 Going deeper into React and TypeScript
+- 🔭 Rebuilding [Street Show](https://github.com/rymarczyk-tomasz/StreetMeetingProject/tree/newProject) as a React + TypeScript app with an admin panel
+- 🏭 Developing [FactoryOps](https://github.com/rymarczyk-tomasz/FactoryOps/tree/demo), a production planning tool
+- 🌱 Going deeper into React, TypeScript and backend development
 - 💼 Open to new front-end opportunities and freelance projects. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/tomasz-rymarczyk-264aaa176/)
